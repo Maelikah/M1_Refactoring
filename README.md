@@ -1,11 +1,9 @@
-# Prework Study Guide Webpage
+# Module 1 Challenge
 
 ## Description
 
-This webpage has been created to be the starting point for the Coding Bootcamp.
-It contains notes related to HTML, CSS, Git and JavaScript concepts that I found interesting or worth mentioning.
-The different prework activities served as a step by step walkthrough that allowed me to build this webpage.
-This helps to start understanding basic coding concepts and best practices.
+This webpage has been created to satisfy the Coding Bootcamp's first challenge.
+It contains a refactored webpage allowing it to be more in compliance with accessibility requirements and HTML semantics best practices. The original functionality has not been affected.
 
 ## Installation
 
@@ -13,7 +11,9 @@ N/A
 
 ## Usage
 
-This webpage is divided into 4 sections. Each one of those sections contains relevant notes gathered during the pre-work activities. If the DevTools console is opened in the Chrome Browser, a basic JavaScript code can be seen running.
+The source code should be inspected to validate compliance with accesibility requirements and HTML semantics best practices
+The images should be reviewed to validate they contain alternate text
+The links should be reviewed to validate they work correctly and are not broken  
 
 ## Credits
 
@@ -21,4 +21,4 @@ N/A
 
 ## License
 
-MIT License
+None
