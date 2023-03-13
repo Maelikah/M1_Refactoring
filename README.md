@@ -15,6 +15,18 @@ The source code should be inspected to validate compliance with accesibility req
 The images should be reviewed to validate they contain alternate text
 The links should be reviewed to validate they work correctly and are not broken  
 
+The github URL containing the code for this challenge is located at:
+
+https://github.com/Maelikah/Module1
+
+The github pages URL containing the deployed webpage is located at:
+
+https://maelikah.github.io/Module1/
+
+Here is a screenshot of the deployed webpage for reference:
+
+![Screenshot](assets/images/screenshot.png)
+
 ## Credits
 
 N/A
